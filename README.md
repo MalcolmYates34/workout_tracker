@@ -1,1 +1,1 @@
-# workout_tracker
+# WorkoutTracker
